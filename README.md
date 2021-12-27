@@ -2,11 +2,3 @@
 - 🏛️ I'm a final year student in Electrical and Computer Engineering with a major in Electronics and Computers.
 - 📽️ My hobbies include watching Movies and TV Series. My favourite Movie and TV Series type always ends up being Mystical/Fantasy and/or Action. So it's no surprise that I'm a fan of big trilogies and sagas like The Lord of the Rigs, The Hobbit, Harry Potter, Star Wars, The Witcher, The Wheel of Time ... you get the point. <br>
 Sometimes I also go running.
-
-
-
-
-<!---
-nunca-falha/nunca-falha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
