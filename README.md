@@ -1,4 +1,4 @@
-<h2> 👋 Hi, I’m <i> nunca-falha </i> </h2>
+<h2> 👋 Hi, I’m <i> Saúl Carvalho </i> </h2>
 <h3> Education </h3>
 <p> 🏛️ I'm a final year student in Electrical and Computer Engineering with a major in Electronics and Computers. </p> <br>
 
