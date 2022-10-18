@@ -6,7 +6,7 @@
 <body>
 
  <h2> 👋 Hi, I’m <i> Saúl Carvalho </i> </h2>
- I'm an Electrical and Computer Engineer, currently at my 1st year of my master's at Polytechnic of Leiria.
+ I'm a portuguese Electrical and Computer Engineer, currently at my 1st year of my master's at Polytechnic of Leiria.
 
  <h2> :floppy_disk: Technologies, Frameworks and Tools </h2>  
 
