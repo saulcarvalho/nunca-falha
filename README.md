@@ -8,6 +8,8 @@
  <h2> 👋 Hi, I’m <i> Saúl Carvalho </i> </h2>
  I'm a portuguese Electrical and Computer Engineer, currently at my 1st year of my master's at Polytechnic of Leiria, I'm also an Invited Assistant Professor at the same location and working full time in the group of Antennas and Propagation for Instituto de Telecomunicações, at the Leiria branch.
 
+ 
+ <!---
  <h2> :floppy_disk: Technologies, Frameworks and Tools </h2>  
 
 <p align="center">
@@ -45,6 +47,8 @@
 <img alt="The Things Network" src="https://img.shields.io/badge/The%20Things%20Network-3cbeff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAMAAABHPGVmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHLUExURbXn/+L2//P7//r9//3+//7///T7/+j4/7rp/6nk/+75//////H6/+D1/+z5/6nj/+P2/8zu//n9//v+/6vk//z+//3//73p/8Xs//L7/7/q/8jt/9by/83v/7Pn/+v5//b8/7Dl//f8/8/w/7jo/8Pr/+r4//j9/63l/9Hw/+T2/87u/+76/9bx/7Lm/7/r/9ny/9Hv/8/v/9fy//D6/+/6/77p/+b3/+L1/8bs/9nz/7zp/930/+v4/7Ll/970/+35/8Hr/+X2/+n3/+j3/+H1/7Dk/9Tw/7jn/63k/8Pq/9rz/9z0/6rk//X8/7Hl/8Ps/67l//f9/9Xx/7fn/9Pw/9/0/93z/9Lw/73o/6/l/7Xm/8vt/+z4/9fx//7+/9/1/+/5/8vu/8fs/7bn/9zz/8Tr/7bm/8/u/83u/7vn/8br/8Xr/7Pm/67j/8Hq/8Ts/8nt/7nn/8ns/8rt/+f3//v9/+P1//X7/9ry/7Tl/+f2/7vo/+D0//j8/7Pl/6/j/6/k/7/p/6rh/6zi/7rn/67k/8js//L6/63j/9Dv/7jm/+n4/9Lv/+r3/6zj/7Lk/9Xw/9Du/8Tq/7Tm/77o/8fr/7zo/wAAAHv8aLIAAACZdFJOU///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////APNecBsAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAVMSURBVGhD7Zj7f9NUFMBxTYpy1jFaq1RRZ8VWptNNB9vAIY51TNShzhXQbXVO3HgoKg6cD/DN8C2+zp/rOeeeJLdpOps18IOffj+QnHtvcr5rcm9ucrfhbaAjiUVHEouOJBYdSSw6kljElWy7oyvluE4qvf1OrWmBeJK7dkBAd8vnxpJkNL1Hj9bb7OzdpVFAHElWcwfk7tamgDxVp3dqQYkh4dPD3HOvNvrsdrl+h5YMrUsKkjVMTlst7uuh+rQWhM0l9+954EENHzJJG+jTdpuH+wCKGjObSB4x98DJcGGvxFE8KgeHKNX9xuaSsiYByD9ml8LUX7AC5Pbxvt/+LU0ljuZgHESNotATDFyR4oBG1ONSQzSTPCHne3TZgzDMgJ5i6KW/znmSAjf4jU0kT2mCVuhGHCxykN4j59KVytNuCOBpKTeVbJfTW8Ptz2kEOekFz5geDDDMJaKJpHFwt4h0xf0AB7ivuJIrWjKiJ2yJUc4AUEIcA9DnQaPkYNTjIwaHKIcjNx3gWcnYKKGf2h48POjBQtscjEvKBgkN1XY5jPicSMpwxCQNSZ7XA9thAvGoSLJNJPY43yo0SMzDxoVJkzUk0ePagwanW0GcAjhmstZLDuph7aHJpgFeMJEtqbTZeZWypsMDxzUIJL16TNu8qAkDfEn07LoVNKGFJ3lJj2ifEc1ooZKXk+i7hpR2KQuVJDDQA2ZMzgCVNJ/Ct0LYohJtTYoTJquHkSTxyLKh2cTGSF7RxqTwpkTFSF7VxsSQrD56T/xXgWR4zWT1UEnb82E9syarh0pe19aEMEl9VIJHtDkRmoyTRIdjVlP6+JKtv8+F8ecTn0CC++RDrG1CN52xJIiH5qqV+GQqGY+Tp05rqjrqJLeKjiQWt1HyhnYUevei//RpwdtZrWIk5MKcVLxZoWlpnsNKRiaojHz84OHKQmlQIsTq8MKihkayu0ZjxK3VeIrk8luwF7Fbur20Y62m7UtS8TYsI07AO95br552hr5JHXDnOC5D3oEqR9bl6oJTvPMk0yx5l2OlBvIn1klWZN5epQo5bdV1zyKedc5RfJ4/uS7wsYQvKcF7vKv7JRx6OPwZGCmB9/U0gIvcKAyCNSwbJR/QtsdIgnNYIh+AS/AhbSsw5ktG831G8lHd4oSbu6RRlMTg3RNZXWB8iSGQ0GfVSZF8LAtQowztlx1IectrjZJ0qVTKm3uSHh9fk0bCl8yUSuNZW4LFnOwuQIEOKBQuc4G4kgPtXpaE1yrkaF4HFAmHHr6Et7vqJCeAXhGoVpMP8VqMkNcgWlL9D8l8nYRXOHiXNe9b3dwrznOU1QybSgqTk/rVt7mEX3Z4l4JP1gf7eM3jUzf7WTXtrUZZEvo0DkkYLjKO6ZPRks/1OF5Mcr7gqMQz4NVrUhtIEmLlSw3wWjBQkpZE8n+XTE1pgPgVoWEUX+ue+eZbDcKoZJoX9LpNjDhQWP5OQ1yezFK3N2S/xyl6UE2saxmvTF4v9WtMPe34erCyTb13SUNfAhu2xF67vBF80az+gLP06bHxo5an9tMmf8MUSCL/lCJ28RwgeJKf1kctSXYi+IS1JDiD4z1j6D9sR6/TZuhnUyDDuWPBsU55QaNAMogbGX6+CQNHNWBsCZxew64V/wItDtGmOm8K1PqLtUJ/eTF48AcSDBbxB3TaFH61JCOpi7jW95uW+JfRn2xCAvD3mxry5frDf7lXyZ/0BnuGr7AwlC3qwh4zoXtihaaXv/wpBvFSMX/1b43p0YU4/I/GSPf4pnemSm4tHUksOpJYdCSx6Ehi0ZHEAPFfcEy77WVLvc4AAAAASUVORK5CYII=" />
  
 </p>
+
+-->
 
 <h2> :chart_with_upwards_trend: GitHub Stats </h2>
 
