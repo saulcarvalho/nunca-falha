@@ -6,7 +6,7 @@
 <body>
 
  <h2> 👋 Hi, I’m <i> Saúl Carvalho </i> </h2>
- I'm a portuguese Electrical and Computer Engineer, currently at my 1st year of my master's at Polytechnic of Leiria, I'm also an Invited Assistant Professor at the same location and working full time in the group of Antennas and Propagation for Instituto de Telecomunicações, at the Leiria branch.
+ I'm a portuguese Electrical and Computer Engineer, currently at my 1st year of my master's at Polytechnic of Leiria and working full time as a research fellow in the group of Antennas and Propagation, at Polytechnic of Leiria.
 
  
  <!---
