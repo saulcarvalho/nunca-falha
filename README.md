@@ -11,7 +11,7 @@ I am a Portuguese Electrical and Computer Engineer specializing in the field of 
  
 
  
- <!---
+ 
  <h2> :floppy_disk: Technologies, Frameworks and Tools </h2>  
 
 <p align="center">
@@ -50,7 +50,7 @@ I am a Portuguese Electrical and Computer Engineer specializing in the field of 
  
 </p>
 
--->
+
 
 <h2> :chart_with_upwards_trend: GitHub Stats </h2>
 
