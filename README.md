@@ -6,7 +6,7 @@
 <body>
 
  <h2> 👋 Hi, I’m <i> Saúl Carvalho </i> </h2>
-I am a Portuguese Electrical and Computer Engineer specializing in the field of telecommunications. Currently, I am in my last year of pursuing a master's degree at the Polytechnic of Leiria. In addition to my studies, I am also employed full time as a researcher in the Antennas and Propagation group at the Polytechnic of Leiria.
+I am a Portuguese Electrical and Electronics Engineer with a master's degree from Polytechnic of Leiria.
 
 
 
